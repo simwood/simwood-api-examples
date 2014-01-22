@@ -4,7 +4,7 @@ We have created a couple of demos that could form the basis of your own monitori
 
 For those who aren't familiar with this, we bill every customer call pretty much every second, and we expose that data through the API. Given certain attacks relay on large volumes of calls being placed in parallel this enables you to monitor for activity on your account that doesn't fit your normal business pattern. Of course, we'll alert you if a call is to a known bad number or your other thresholds are breached, but what about calls that actually get through? 
 
-These features enables you to see real-time where you are spending money and drive your own business logic;
+This enables you to see real-time where you are spending money and drive your own business logic;
 
 ## The Examples
 
